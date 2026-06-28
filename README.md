@@ -14,7 +14,7 @@
 
 Estou em transição de carreira para a área de Tecnologia, construindo projetos práticos em Python e explorando o ecossistema web com JavaScript/TypeScript. Tenho formação complementar em desenvolvimento Python e administração de banco de dados pelo SENAI-DF.
 
-- 🎓 Cursando Ciência da Computação - Centro Universitário de Brasília (UniBF)
+- 🎓 Cursando Ciência da Computação - Centro Universitário UniBF
 - 📜 Certificações SENAI-DF: **Python Developer** (200h) e **Database Administrator** (200h)
 - 🔍 Buscando oportunidades de estágio em TI
 - 📍 Brasília, DF - Brasil
